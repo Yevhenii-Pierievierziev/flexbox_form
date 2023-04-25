@@ -1,0 +1,16 @@
+phpmailer/
+package-lock.json
+node_modules/
+Source/
+version.json
+undefined
+**/*.zip
+**/*.rar
+gulpfile.js
+package.json
+README.txt
+snnipets.txt
+.vscode/
+config/
+/css
+src/
